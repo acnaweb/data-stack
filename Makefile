@@ -1,4 +1,4 @@
-export IMAGE_NAME=my-image
+export IMAGE_NAME=data-stack
 
 # Local development
 install:
